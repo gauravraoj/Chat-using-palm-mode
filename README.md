@@ -1,6 +1,7 @@
 
-![Screenshot (70)](https://github.com/gauravraoj/Chat-using-palm-mode/assets/96016132/0eaa7113-73da-4d7f-b29b-45d96da2d480)
-![Screenshot (71)](https://github.com/gauravraoj/Chat-using-palm-mode/assets/96016132/b2edee41-45b1-411d-bee4-1836fe0cd2a7)
+![Screenshot (70)](https://github.com/gauravraoj/Chat-using-palm-mode/assets/96016132/84dd5165-6906-49a4-a584-938f89422cfa)
+
+![Screenshot (71)](https://github.com/gauravraoj/Chat-using-palm-mode/assets/96016132/a2c8d8e3-fa0c-4331-85cc-4b25b49c793f)
 
 
 # Getting Started with Create React App
